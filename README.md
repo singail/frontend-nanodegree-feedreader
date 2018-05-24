@@ -11,8 +11,8 @@ Feed Reader allows a user to keep track of many different websites and their con
 
 ## How to run this project
 
-Clone this git repository by pasting this to the git command line: git clone https://github.com/singail/frontend-nanodegree-feedreader.git
-Open index.html in the browser.
+* Clone this git repository by pasting this to the git command line: git clone https://github.com/singail/frontend-nanodegree-feedreader.git
+* Open index.html in the browser.
 
 ## Resources
 
