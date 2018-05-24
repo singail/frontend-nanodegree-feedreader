@@ -13,9 +13,9 @@ Feed Reader allows a user to keep track of many different websites and their con
 
 In order to fulfil project specifications, I used those resources:
 
-* [Front-End Web Developer Nanodegree Program] (https://eu.udacity.com/) lessons and forum
-* [Developer community] (https://stackoverflow.com)
-* [MDN web docs] (https://developer.mozilla.org/en-US/)
+* [Front-End Web Developer Nanodegree Program](https://eu.udacity.com/) lessons and forum
+* [Developer community](https://stackoverflow.com)
+* [MDN web docs](https://developer.mozilla.org/en-US/)
 * [W3shools online web tutorials](https://www.w3schools.com/)
-* [Jasmine documentation] (https://jasmine.github.io/2.0/introduction.html)
+* [Jasmine documentation](https://jasmine.github.io/2.0/introduction.html)
 * And of course special thanks to Slack buddies who helped me a lot while creating this project!
